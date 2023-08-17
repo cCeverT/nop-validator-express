@@ -1,0 +1,23 @@
+{
+  "name": "nop-validator-express",
+  "version": "0.1.0",
+  "description": "Express middlware for nop-validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cCeverT/n-validator.git"
+  },
+  "keywords": [
+    "middlware",
+    "validate"
+  ],
+  "author": "ruddnovskiy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cCeverT/n-validator/issues"
+  },
+  "homepage": "https://github.com/cCeverT/n-validator#readme"
+}
